@@ -1,0 +1,5 @@
+applications:
+- name: demo_java
+  random-route: true
+  path: ./
+  memory: 1024M
